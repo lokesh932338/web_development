@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: rgb(20,20,20);
+	background: linear-gradient(45deg,rgb(170,50,100),rgb(30,20,200),rgb(170,50,100));
+	max-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: helvetica;
+	font-style: italic;
+	
+}
+p {
+	/*background: linear-gradient(170deg,rgb(70,70,200),rgb(150,70,70));*/
+	color: rgb(0,10,10)
+}
+body {
+	background: linear-gradient(15deg,rgb(200,100,50),rgb(170,50,100));
+}
