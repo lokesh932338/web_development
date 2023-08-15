@@ -1,0 +1,91 @@
+body {
+    background-image: url("https://securityonline.info/wp-content/uploads/2020/02/code.png");
+    font-family: calibri light;
+    font-size: 15px;
+    text-align: left;
+    color: rgb(220,220,220)
+  }
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    background: linear-gradient(45deg, rgba(29,29,49,0.95) ,rgb(49,59,69,0.95));
+    max-width: 800px;
+    margin:2em auto;
+    border-radius: 3px;
+  }
+  
+  
+  label {
+    display: block;
+    text-align: left;
+    margin: 0em 1em 0.5em 1em;
+    color: rgb(230,230,230)
+  }
+  input {
+    display: block;
+    width: 95%;
+    margin: 0.25em 0 0 0;
+    font-size: 25px;
+    font-family: helvetica;
+  
+    height: 1.5em;
+  }
+  select {
+    width: 95%;
+    height: 1.5em;
+    font-size: 25px;
+    margin: 0.25em 0;
+  }
+  input[type='radio'] {
+    display: inline;
+    width: 1em;
+    height: 2em;
+    margin: 0 0.25em 0 0;
+    vertical-align: middle;}
+  
+    
+  
+  
+  
+  .improve-ask, .hint {
+    display: inline-block;
+  }
+  .improve-ask {
+    margin-left: 1em;
+    
+    margin-right: 0;
+    text-align: left;
+    }
+  .hint {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: left;
+    
+  }
+  
+  input[type='checkbox'] {
+    
+    display: inline;
+    width: 1em;
+    margin: 0 0.25em 0.25em 0;
+    vertical-align: middle;
+  
+  }
+  
+  textarea {
+    width: 20em;
+    height: 6em;
+    font-size: 20px;
+    width: 98%;
+  }
+  button {
+    width: 80%;
+    background-color: green;
+    border: 0;
+    border-radius: 5px;
+    height: 2em;
+    font-size: 25px;
+    margin: auto auto;
+  }
