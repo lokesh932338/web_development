@@ -54,23 +54,11 @@ body {
   
   
   
-  .improve-ask, .hint {
-    display: inline;
-  }
-  .improve-ask {
-    /* margin-left: 2em; */
-    
-    /* margin-right: auto; */
-    margin: 0;
-    padding: 0;
-    /* text-align: left; */
-    }
+  
   .hint {
-    /* margin-left: 0;
-    margin-right: auto; */
-    margin: 0;
-    padding: 0;
-    /* text-align: left; */
+    display: inline;
+    margin-left: 0;
+    
     
   }
   
