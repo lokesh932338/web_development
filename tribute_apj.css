@@ -1,0 +1,64 @@
+body {
+    background: linear-gradient(rgb(240,240,235),rgb(240,240,230));
+    background-attachment: fixed;
+    
+  }
+  
+  main {
+    max-width: 80%;
+    background: radial-gradient(rgb(220,220,200), rgb(250,240,250));
+    font-family: Helvetica;
+    padding: 1em 2em;
+    margin: 30px auto;
+    font-size: 25px;
+    border-radius: 3px;
+    box-shadow: 0 0 3px 0 gray;
+    color: rgb(30,30,40)
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    margin: 2em 0 0 0;
+  }
+  .description {
+    text-align: center;
+    font-size: 20px;
+    /* margin: 0 auto; */
+  }
+  
+  
+  #img-div {
+    max-width: 100%;
+    text-align: center;
+  }
+  #img-div >img {
+    resize: both;
+    max-width: 100%;
+    max-height:300px;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+  }
+  #tribute-info {
+    padding: 0 1em 1em 1em;
+  }
+  
+  #tribute-info li{
+    padding: 0.5em;
+    color: rgb(30,30,50);
+    font-family: "Calibri";
+    /* margin-top: 0.5em; */
+  
+  }
+  .more-info label {
+    font-style: italic;
+    font-size: 25px;
+    
+  }
+  #tribute-link {
+    text-decoration: none;
+  }
+  #tribute-info {
+    font-size: 23px;
+  }
