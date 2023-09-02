@@ -22,6 +22,8 @@ body {
   height: 300px;
   background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
   /* position: absolute; */
+/*   here is the problem when postion is made absolute everything works fine, but commenting the above line 
+  changes the display of left-mountain and ground also. ??*/
 }
 
 .penguin {
